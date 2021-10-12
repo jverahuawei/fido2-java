@@ -1,0 +1,53 @@
+com/huawei/hms/fido/sample/fido2/server/param/ServerPublicKeyCredentialCreationOptionsRequest.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerPublicKeyCredentialCreationOptionsRequest
+com/huawei/hms/fido/sample/fido2/server/param/ServerAssertionResultResponseRequest.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerAssertionResultResponseRequest
+com/huawei/hms/fido/sample/fido2/server/param/ServerAuthenticatorSelectionCriteria.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerAuthenticatorSelectionCriteria
+com/huawei/hms/fido/sample/fido2/server/param/ServerPublicKeyCredentialCreationOptionsResponse.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerPublicKeyCredentialCreationOptionsResponse
+com/huawei/hms/fido/sample/fido2/server/param/ServerResponse.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerResponse
+com/huawei/hms/fido/sample/fido2/server/param/ServerPublicKeyCredentialDescriptor.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerPublicKeyCredentialDescriptor
+com/huawei/hms/fido/sample/fido2/server/param/ServerRegDeleteRequest.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerRegDeleteRequest
+com/huawei/hms/fido/sample/fido2/BuildConfig.java
+ com.huawei.hms.fido.sample.fido2.BuildConfig
+com/huawei/hms/fido/sample/fido2/Fido2DemoMainActivity.java
+ com.huawei.hms.fido.sample.fido2.Fido2DemoMainActivity
+ com.huawei.hms.fido.sample.fido2.Fido2DemoMainActivity$1
+ com.huawei.hms.fido.sample.fido2.Fido2DemoMainActivity$2
+ com.huawei.hms.fido.sample.fido2.Fido2DemoMainActivity$3
+ com.huawei.hms.fido.sample.fido2.Fido2DemoMainActivity$4
+ com.huawei.hms.fido.sample.fido2.Fido2DemoMainActivity$5
+com/huawei/hms/fido/sample/fido2/server/param/ServerPublicKeyCredentialRpEntity.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerPublicKeyCredentialRpEntity
+com/huawei/hms/fido/sample/fido2/server/param/ServerPublicKeyCredentialEntity.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerPublicKeyCredentialEntity
+com/huawei/hms/fido/sample/fido2/server/param/ServerAssertionResultRequest.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerAssertionResultRequest
+com/huawei/hms/fido/sample/fido2/server/ByteUtils.java
+ com.huawei.hms.fido.sample.fido2.server.ByteUtils
+com/huawei/hms/fido/sample/fido2/server/FidoServerSimulator.java
+ com.huawei.hms.fido.sample.fido2.server.FidoServerSimulator
+com/huawei/hms/fido/sample/fido2/server/param/ServerStatus.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerStatus
+com/huawei/hms/fido/sample/fido2/server/param/ServerAttestationResultRequest.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerAttestationResultRequest
+com/huawei/hms/fido/sample/fido2/server/param/ServerPublicKeyCredentialParameters.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerPublicKeyCredentialParameters
+com/huawei/hms/fido/sample/fido2/server/IFidoServer.java
+ com.huawei.hms.fido.sample.fido2.server.IFidoServer
+com/huawei/hms/fido/sample/fido2/server/param/ServerRegInfoResponse.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerRegInfoResponse
+com/huawei/hms/fido/sample/fido2/server/param/ServerRegInfo.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerRegInfo
+com/huawei/hms/fido/sample/fido2/server/param/ServerPublicKeyCredentialUserEntity.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerPublicKeyCredentialUserEntity
+com/huawei/hms/fido/sample/fido2/server/param/ServerAttestationResultResponseRequest.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerAttestationResultResponseRequest
+com/huawei/hms/fido/sample/fido2/server/ServerUtils.java
+ com.huawei.hms.fido.sample.fido2.server.ServerUtils
+com/huawei/hms/fido/sample/fido2/server/param/ServerRegInfoRequest.java
+ com.huawei.hms.fido.sample.fido2.server.param.ServerRegInfoRequest

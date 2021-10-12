@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="CTAP1_ERR_CHANNEL_BUSY">Channel busy.</string>
+    <string name="CTAP1_ERR_INVALID_CHANNEL">Command not allowed on this cid.</string>
+    <string name="CTAP1_ERR_INVALID_COMMAND">The command is not a valid CTAP command.</string>
+    <string name="CTAP1_ERR_INVALID_LENGTH">Invalid message or item length.</string>
+    <string name="CTAP1_ERR_INVALID_PARAMETER">The command included an invalid parameter.</string>
+    <string name="CTAP1_ERR_INVALID_SEQ">Invalid message sequencing.</string>
+    <string name="CTAP1_ERR_LOCK_REQUIRED">Command requires channel lock.</string>
+    <string name="CTAP1_ERR_OTHER">Other unspecified error.</string>
+    <string name="CTAP1_ERR_TIMEOUT">Message timed out.</string>
+    <string name="CTAP2_ERR_ACTION_TIMEOUT">The current operation has timed out.</string>
+    <string name="CTAP2_ERR_CBOR_PARSING">Error when parsing CBOR.</string>
+    <string name="CTAP2_ERR_CBOR_UNEXPECTED_TYPE">Invalid/unexpected CBOR error.</string>
+    <string name="CTAP2_ERR_CREDENTIAL_EXCLUDED">Valid credential found in the exclude list.</string>
+    <string name="CTAP2_ERR_INVALID_CBOR">Error when parsing CBOR.</string>
+    <string name="CTAP2_ERR_INVALID_CBOR_TYPE">Invalid CBOR type.</string>
+    <string name="CTAP2_ERR_INVALID_CREDENTIAL">Credential not valid for the authenticator.</string>
+    <string name="CTAP2_ERR_INVALID_OPTION">Not a valid option for current operation.</string>
+    <string name="CTAP2_ERR_KEEPALIVE_CANCEL">Pending keep alive was cancelled.</string>
+    <string name="CTAP2_ERR_KEY_STORE_FULL">Internal key storage is full.</string>
+    <string name="CTAP2_ERR_LIMIT_EXCEEDED">Limit for number of items exceeded.</string>
+    <string name="CTAP2_ERR_MISSING_PARAMETER">Missing non-optional parameter.</string>
+    <string name="CTAP2_ERR_NOT_ALLOWED">Continuation command, such as, authenticatorGetNextAssertion not allowed.</string>
+    <string name="CTAP2_ERR_NO_CREDENTIALS">No valid credentials provided.</string>
+    <string name="CTAP2_ERR_NO_OPERATIONS">No request is pending.</string>
+    <string name="CTAP2_ERR_NO_OPERATION_PENDING">No outstanding operations.</string>
+    <string name="CTAP2_ERR_OPERATION_DENIED">Not authorized for requested operation.</string>
+    <string name="CTAP2_ERR_OPERATION_PENDING">Processing, lengthy operation is in progress.</string>
+    <string name="CTAP2_ERR_PIN_AUTH_BLOCKED">PIN authentication,pinAuth, blocked. Requires power recycle to reset.</string>
+    <string name="CTAP2_ERR_PIN_AUTH_INVALID">PIN authentication,pinAuth, verification failed.</string>
+    <string name="CTAP2_ERR_PIN_BLOCKED">PIN Blocked.</string>
+    <string name="CTAP2_ERR_PIN_INVALID">PIN Invalid.</string>
+    <string name="CTAP2_ERR_PIN_NOT_SET">No PIN has been set.</string>
+    <string name="CTAP2_ERR_PIN_POLICY_VIOLATION">PIN policy violation. Currently only enforces minimum length.</string>
+    <string name="CTAP2_ERR_PIN_REQUIRED">PIN is required for the selected operation.</string>
+    <string name="CTAP2_ERR_PIN_TOKEN_EXPIRED">pinToken expired on authenticator.</string>
+    <string name="CTAP2_ERR_PROCESSING">Processing (Lengthy operation is in progress).</string>
+    <string name="CTAP2_ERR_REQUEST_TOO_LARGE">Authenticator cannot handle this request due to memory constraints.</string>
+    <string name="CTAP2_ERR_UNSUPPORTED_ALGORITHM">Authenticator does not support requested algorithm.</string>
+    <string name="CTAP2_ERR_UNSUPPORTED_EXTENSION">Unsupported extension.</string>
+    <string name="CTAP2_ERR_UNSUPPORTED_OPTION">Unsupported option.</string>
+    <string name="CTAP2_ERR_UP_REQUIRED">User presence is required for the requested operation.</string>
+    <string name="CTAP2_ERR_USER_ACTION_PENDING">Authentication is waiting for user interaction.</string>
+    <string name="CTAP2_ERR_USER_ACTION_TIMEOUT">Timeout waiting for user interaction.</string>
+    <string name="CTAP2_ERR_USER_CANCEL" priority="translator">"Операция отменена."</string>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="err_abort" priority="translator">"Операция прервана."</string>
+    <string name="err_constraint" priority="translator">"Операция мутации не выполнена в транзакции из-за несоблюдения ограничения."</string>
+    <string name="err_data" priority="translator">"Предоставленных данных недостаточно."</string>
+    <string name="err_encoding" priority="translator">"Сбой операции шифрования/дешифрования."</string>
+    <string name="err_invalid_state" priority="translator">"Объект находится в недопустимом состоянии."</string>
+    <string name="err_network" priority="translator">"Произошла ошибка сети."</string>
+    <string name="err_not_allowed" priority="translator">"Операция запрещена."</string>
+    <string name="err_not_supported" priority="translator">"Операция не поддерживается."</string>
+    <string name="err_timeout" priority="translator">"Время ожидания операции истекло."</string>
+    <string name="err_unknown" priority="translator">"Операция не выполнена из-за неизвестной временной ошибки (например, недостатка памяти)."</string>
+    <string name="error_unsupported_os_ver" priority="translator">"Аутентификация с помощью отпечатка пальца не поддерживается на устройстве или в версии ОС."</string>
+    <string name="face_error_unsupported_os" priority="translator">"Аутентификация с помощью лица не поддерживается на устройстве или в версии ОС."</string>
+    <string name="generic_error_crypto_verify_failed" priority="translator">"Результат биометрической аутентификации не прошел проверку."</string>
+    <string name="generic_error_sys_integrity_failed" priority="translator">"ОС не прошла проверку целостности."</string>
+    <string name="hms_abort" priority="translator">"Остановить"</string>
+    <string name="hms_abort_message" priority="translator">"Остановить загрузку?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s не может использовать HMS Core. Перейдите в Диспетчер (Диспетчер телефона) или Настройки, предоставьте все права для %2$s (включая автозапуск и косвенный запуск) и повторите попытку."</string>
+    <string name="hms_cancel" priority="translator">"Отмена"</string>
+    <string name="hms_check_failure" priority="translator">"Сбой проверки обновлений."</string>
+    <string name="hms_checking" priority="translator">"Проверка обновлений..."</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Сбой загрузки пакета HMS Core."</string>
+    <string name="hms_download_no_space" priority="translator">"Недостаточно памяти. Невозможно завершить загрузку."</string>
+    <string name="hms_download_retry" priority="translator">"Сбой загрузки. Повторить попытку?"</string>
+    <string name="hms_downloading_loading" priority="LT">"Загрузка"</string>
+    <string name="hms_framework_error" priority="translator">"Ошибка инфраструктуры HMS Core:"</string>
+    <string name="hms_install" priority="translator">"Установить"</string>
+    <string name="hms_install_message" priority="translator">"Для использования этой функции необходимо установить HMS Core. Установить?"</string>
+    <string name="hms_is_spoof" priority="LT">"Кажется, на Вашем устройстве установлена неофициальная версия HMS Core (%1$s). В разделе Настройки удалите HMS Core и вернитесь в это приложение, чтобы установить официальную версию."</string>
+    <string name="hms_retry" priority="translator">"Повтор"</string>
+    <string name="hms_spoof_hints" priority="LT">"Внимание"</string>
+    <string name="hms_update" priority="translator">"Обновить"</string>
+    <string name="hms_update_continue" priority="LT">"Загрузить"</string>
+    <string name="hms_update_message" priority="translator">"Чтобы использовать эту функцию, необходимо обновить HMS Core до последней версии. Обновить?"</string>
+    <string name="hms_update_message_new" priority="LT">"Для работы этой службы требуется последняя версия приложения:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Нет Wi-Fi-соединения. Загрузить по мобильной сети передачи данных?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+    <string name="no_credential_id" priority="translator">"Действительные учетные данные не найдены. Зарегистрируйтесь повторно."</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Поиск"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="success" priority="translator">"Выполнено."</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Установить"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"Загрузка %s..."</string>
+    <string name="upsdk_app_size" priority="translator">"Размер"</string>
+    <string name="upsdk_app_version" priority="LT">"Версия"</string>
+    <string name="upsdk_appstore_install" priority="translator">"%s требуется для обновления приложения. Установить сейчас?"</string>
+    <string name="upsdk_cancel" priority="translator">"Отмена"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"Проверка обновлений…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Доступно обновление. Загрузите и установите его."</string>
+    <string name="upsdk_detail" priority="translator">"Сведения"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Сбой получения данных. Повторите попытку позднее."</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"Вы подключены к мобильной сети. Для загрузки будет использовано %1$s трафика."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Нет интернет-соединения. Проверьте настройки сети."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Приложение"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Позже"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Выйти"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Обновить"</string>
+    <string name="upsdk_ota_title" priority="translator">"Новая версия"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s МБ"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Отменить установку?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Сбой установки."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Да"</string>
+    <string name="upsdk_update_check_no_new_version" priority="LT">"Это последняя версия."</string>
+</resources>

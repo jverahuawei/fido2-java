@@ -1,0 +1,4 @@
+#Tue Oct 12 14:22:20 COT 2021
+base.0=D\:\\Documents\\AndroidStudioProjects\\fido2_java\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
